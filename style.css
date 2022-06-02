@@ -1,0 +1,25 @@
+tr {
+    height: 100px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+thead tr {
+    height: 50px;
+
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+li {
+    font-size: 12px;
+}
+.bg-success {
+    background-color: #D1E7DD !important;
+}
+.bg-danger {
+    background-color: #F8D7DA !important;
+}
+body {
+    background-color: aliceblue;
+}
